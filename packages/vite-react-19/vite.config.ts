@@ -8,9 +8,9 @@ export default defineConfig({
       projects: ["./src/tsconfig.json"],
     }),
     react({
-      babel: {
-        plugins: [["babel-plugin-react-compiler"]],
-      },
+      // babel: {
+      //   plugins: [["babel-plugin-react-compiler"]],
+      // },
     }),
   ],
 });
