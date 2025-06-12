@@ -18,9 +18,9 @@
     "@types/react-dom": "18",
     "react": "18",
     "react-dom": "18",
-    "react-router": "^7.0.1",
+    "react-router": "^7.5.2",
     "react-router-dom-6": "npm:react-router-dom@6",
-    "vitest": "^2.1.3"
+    "vitest": "^2.1.9"
   },
   "devDependencies": {
     "vite-tsconfig-paths": "^5.0.1"
